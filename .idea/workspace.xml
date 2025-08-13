@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfb6f82a-4c35-4dd3-a8cf-8f50159f18e4" name="Changes" comment="New rep" />
+    <list default="true" id="cfb6f82a-4c35-4dd3-a8cf-8f50159f18e4" name="Changes" comment="New rep">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/pickle_cellphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/pickle_cellphone.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +49,8 @@
   "keyToString": {
     "Python.cell_phone_list.executor": "Run",
     "Python.cell_phone_test.executor": "Run",
+    "Python.pickle_cellphone.executor": "Run",
+    "Python.unpickle_cellphone.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Dev_Lab/Python/Starting_Out_With_Python/Python_Chapter_10_Cell_Phone",
@@ -76,7 +81,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755078206249</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New rep">
+      <option name="closed" value="true" />
+      <created>1755078457105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755078457105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

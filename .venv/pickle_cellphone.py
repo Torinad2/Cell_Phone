@@ -8,11 +8,12 @@ FILENAME = 'cellphones.dat'
 def main():
     # Initialize a variable to control the loop.
     again = 'y'
+
     # Open a file for binary writing.
     with open(FILENAME, 'wb') as output_file:
 
         # Get data from the user.
-        while again.lower == 'y':
+        while again.lower() == 'y':
             # Get cell phone data.
             manufacturer = input('Enter the manufacturer: ')
             model = input('Enter the model: ')
